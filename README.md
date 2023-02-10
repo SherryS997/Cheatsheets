@@ -20,3 +20,10 @@ This repo contains cheatsheets for the following:
 * [Statistics](./mit_stats.pdf): Cheatsheet for statistics.
 * [Probability](./probability_cheatsheet.pdf): Cheatsheet for probability.
 * [Regex](./regex-cheatsheet.pdf): Popular string pattern matching software.
+* [Spreadsheets](./Excel_Cheat_Sheet.pdf): For spreadsheet operations.
+
+* WebDev:
+    * [HTML](./htmlcheatsheet.pdf)
+    * [CSS](./csscheatsheet.pdf)
+    * [Vue3 Essentials](./Vue3Ess.pdf)
+    * [Vue3 CompositionsAPI](./Vue3Comp.pdf)
