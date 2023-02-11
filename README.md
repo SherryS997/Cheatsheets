@@ -21,6 +21,7 @@ This repo contains cheatsheets for the following:
 * [Probability](./cheatsheets/probability_cheatsheet.pdf): Cheatsheet for probability.
 * [Regex](./cheatsheets/regex-cheatsheet.pdf): Popular string pattern matching software.
 * [Spreadsheets](./cheatsheets/Excel_Cheat_Sheet.pdf): For spreadsheet operations.
+* [SQL](./cheatsheets/SQL_Basics_For_Data_Science.pdf): SQL Operations.
 
 * WebDev:
     * [HTML](./cheatsheets/htmlcheatsheet.pdf)
